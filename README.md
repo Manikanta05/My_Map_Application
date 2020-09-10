@@ -1,6 +1,7 @@
 # mymap
 
 Application of map
+#It wont work unless you use your own api for google search of places.
 
 ## Getting Started
 
