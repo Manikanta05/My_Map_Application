@@ -7,7 +7,7 @@ import 'package:google_maps_webservice/places.dart';
 import 'dart:async';
 
 void main() => runApp(MyApp());
-
+/*Use your api if this wwont work*/
 const kGoogleApiKey = "AIzaSyD5vvzPN5jyt06dFAqXuGKyd7FpfXFieaU";
 
 GoogleMapsPlaces _places = GoogleMapsPlaces(apiKey: kGoogleApiKey);
